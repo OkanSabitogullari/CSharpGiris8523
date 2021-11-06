@@ -21,7 +21,7 @@ namespace CSharpGiris8523
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World !");
+            Console.WriteLine("Hello Ankara !");
 
             int sayi1; // declaration
             sayi1 = 7; //assignment , set
